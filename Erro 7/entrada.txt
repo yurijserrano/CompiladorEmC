@@ -1,0 +1,35 @@
+programa ex1;
+
+funcao func : inteiro;
+procedimento proc;
+
+var
+	var1,var2 : inteiro;
+	var3,var4 : booleano;
+
+	inicio
+		var1 := 5;
+		se( var2 < var1)
+			entao escreva("Erro");
+
+		enquanto( var1 < var2)
+			faca escreva("Erro");
+
+
+		se( var3  = verdadeiro)
+			entao escreva("Erro");
+
+
+		se(var4 <> falso)
+			entao escreva("Erro");
+
+
+		enquanto( var1 = var2)
+			faca se(var1 <> verdadeiro)
+				entao escreva("Erro");
+
+		
+		
+				
+		 
+	fim

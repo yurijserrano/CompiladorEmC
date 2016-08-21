@@ -1,0 +1,18 @@
+programa ex1;
+
+funcao func : inteiro;
+var
+	var1,var2 : inteiro;
+	var3,var4 : booleano;
+
+	inicio
+
+		var2 := var1;
+		var3 := var4;	
+
+
+		se( var1 < var2)
+			entao escreva("Consegui");
+				
+		 
+	fim

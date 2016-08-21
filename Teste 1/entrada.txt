@@ -1,0 +1,12 @@
+programa ex1;
+
+funcao func : inteiro;
+var
+	var1 : inteiro;
+
+	inicio
+
+		var1 := var1;
+				
+		 
+	fim
